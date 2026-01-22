@@ -1,0 +1,18 @@
+{
+  "name": "typescript-part1",
+  "version": "1.0.0",
+  "description": "the first thing in any project to init the git first so we'll use the command `git init`",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
